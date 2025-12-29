@@ -2641,7 +2641,7 @@ dependencies = [
 
 [[package]]
 name = "ratatui"
-version = "0.30.0"
+version = "0.30.1"
 dependencies = [
  "color-eyre",
  "criterion",
@@ -2711,7 +2711,7 @@ dependencies = [
 
 [[package]]
 name = "ratatui-macros"
-version = "0.7.0"
+version = "0.7.1"
 dependencies = [
  "ratatui-core",
  "ratatui-widgets",
@@ -2751,7 +2751,7 @@ dependencies = [
 
 [[package]]
 name = "ratatui-widgets"
-version = "0.3.0"
+version = "0.3.1"
 dependencies = [
  "bitflags 2.10.0",
  "color-eyre",
